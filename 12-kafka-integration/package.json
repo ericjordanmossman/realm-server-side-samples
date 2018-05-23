@@ -1,0 +1,17 @@
+{
+  "name": "kafka-integration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "consumer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "kafka-node": "^2.6.1",
+    "no-kafka": "^3.2.10",
+    "realm": "^2.6.0"
+  }
+}
